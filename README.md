@@ -4,3 +4,4 @@
 
 ### 1. Base64 Encoding , Decoding
 ### 2. Memory Partition
+### 3. 상속을 사용하여 다른 방법으로 Encodin
